@@ -41,4 +41,9 @@ To run this project, you will need to add the following environment variables to
 `CLOUD_API_SECRET`
 `mapToken`
 
+## Screenshots
+
+![App Screenshot](https://github.com/HRXHarshal/WanderLust/blob/main/Screenshots/Screenshot%202024-06-19%20170623.png?raw=true)
+![App Screenshot](https://github.com/HRXHarshal/WanderLust/blob/main/Screenshots/Screenshot%202024-06-19%20171909.png?raw=true)
+
 
