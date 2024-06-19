@@ -28,3 +28,17 @@ Wanderlust is a travel platform that allows users to explore and share their fav
 - Reviews: Leave reviews for your favourite destinations.
 - User Authentication: Secure sign-up, login, and logout functionality.
 
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+`SECRET`
+`ATLASDB_URL`
+`CLOUD_NAME`
+`CLOUD_NAME`
+`CLOUD_API_SECRET`
+`mapToken`
+
+
