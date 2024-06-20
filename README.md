@@ -1,7 +1,7 @@
 
 # WanderLust
 
-Wanderlust is a travel platform that allows users to explore and share their favourite destinations. The project is built using t (MongoDB, Express.js , Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
+Wanderlust is a travel platform that allows users to explore and share their favourite destinations. The project is built using (MongoDB, Express.js , Node.js) and incorporates various technologies for features like image upload, user authentication, and interactive maps.
 
 
 ## Tech Stack
@@ -24,9 +24,15 @@ Wanderlust is a travel platform that allows users to explore and share their fav
 
 ## Features
 
-- Listings: Create, edit, and delete your listings.
-- Reviews: Leave reviews for your favourite destinations.
-- User Authentication: Secure sign-up, login, and logout functionality.
+- Developed and maintained a comprehensive travel and accommodation platform, WanderLust, using Node.js, Express.js, and MongoDB.
+- Listings: Developed features to create, read, update, and delete (CRUD) accommodation listings.
+- Reviews: Built a review system allowing users to write reviews for listings, including adding, editing, and deleting reviews.
+- User Authentication: Rendered sign-up and login forms, handled user registration and authentication.
+- Implemented various user functionalities including sign-up, login, and logout using Passport.js for authentication and Flash messages for user notifications.
+- Created responsive and user-friendly interfaces using EJS templates.
+- Integrated Cloudinary API for efficient image storage and management, enhancing the media handling capabilities of the platform.
+- Integrated Mapbox Geocoding API to perform geocoding and locate addresses, enhancing the search functionality based on user location.
+- Deployed the application on Render, ensuring high availability, scalability, and automated deployment processes.
 
 
 ## Environment Variables
